@@ -1,0 +1,36 @@
+/*aling list items right, the class 'ml-auto' in ul element also does thesame thing*/
+.navbar-nav {
+    margin-left: auto;
+
+    margin-right: 20rem;
+}
+
+/*.container{
+
+  width:auto;
+  background-color: yellowgreen;
+}*/
+
+
+/** Profile background image**/
+.slider{    
+  
+   background: url("../images/img1.jpg") no-repeat;
+   
+    background-size: cover;
+    /*background-position: 10% 10%;*/ 
+  
+  
+   padding: 200px 0 250px 0;
+  
+    position: relative;
+    
+    
+  }
+
+  .sectionClass{
+
+    margin:3rem;
+    b
+   
+  }
