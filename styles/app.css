@@ -15,12 +15,11 @@
 /** Profile background image**/
 .slider{    
   
-   background: url("../images/img1.jpg") no-repeat;
+   background: url("../images/background.jpg") no-repeat;
    
     background-size: cover;
-    background-position: 10% 10%;
-  
-  
+    background-position: 50% 50%;
+    
    padding: 200px 0 250px 0;
   
     position: relative;
