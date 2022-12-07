@@ -12,6 +12,32 @@
 }*/
 
 
+/**************position********************/
+
+
+.centerTextAlign{
+  text-align: center;
+}
+
+.leftTextAlign{
+  text-align: left;
+}
+.justifyTextAlign{
+text-align: justify;
+}
+
+.rightTextAlign{
+  text-align: right;
+}
+
+
+.alignleftFloat {
+	float: left;
+}
+.alignrightFloat {
+	float: right;
+}
+
 /** Profile background image**/
 .slider{    
   
